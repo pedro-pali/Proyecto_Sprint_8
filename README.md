@@ -24,7 +24,7 @@ Resumen de análisis hecho:
  - gráficos de barra para vidualización y comparativa, y
  - conclusiones de los resultados.
 
- ## Paso 5. 
+ ## Paso 5. Prueba de hipótesis (Python)
  Hipotesis de duración promedio de viajes, los cuales vienen en el archivo ..._result_07 al cual llamamos 'df_07' y contiene:
  -- start_ts: fecha y hora de la recogida
  -- weather_conditions: condiciones climáticas en el momento en el que comenzó el viaje
